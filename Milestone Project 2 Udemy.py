@@ -1,3 +1,5 @@
+#This is a card game that I made. It's my first OOP's program. I'll be updating this file as I keep upgrading this game.
+
 import random
 
 suits = ('Hearts ♥', 'Diamonds ♦', 'Spades ♠', 'Clubs ♣')
